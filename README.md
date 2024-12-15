@@ -146,7 +146,7 @@ uint32_t hClock = RCC_GetHClock();
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/stm32f407-libraries.git
+   git clone https://github.com/ibrahimozcakir/STM32F407_Driver_Development
    ```
 2. Include the required library header files in your project.
 3. Follow the provided examples to configure and use the peripherals in your STM32F407 project.
@@ -155,11 +155,6 @@ uint32_t hClock = RCC_GetHClock();
 - STM32F407 microcontroller.
 - STM32CubeIDE or any compatible IDE for development.
 - Basic knowledge of embedded C programming.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
